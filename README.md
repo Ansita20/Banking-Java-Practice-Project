@@ -9,12 +9,10 @@ This is a full-stack online banking web application.
 - **Language:** Java 11
 - **Security & Auth:** Spring Security, JSON Web Tokens (JWT)
 - **Database / ORM:** Spring Data JPA, Hibernate, MySQL, H2
-- **Mailing:** Spring Mail (for OTP email verification)
 - **Utilities:** Project Lombok
 
 ### Frontend
 - **Framework:** React (v18.2.0)
-- **State Management:** Redux Toolkit
 - **Routing:** React Router DOM (v6)
 - **Styling:** Tailwind CSS, Flowbite React
 - **UI Components:** PrimeReact, PrimeIcons, React Icons
